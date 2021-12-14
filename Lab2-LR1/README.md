@@ -2,7 +2,7 @@
 
 ## 一、基本架构
 ### 1.数据结构
--字符映射
+- 字符映射
 ~~~
 vector<char> v;
 map<char, int > getNum;
@@ -29,7 +29,7 @@ struct item
 };
 vector< vector<item> > family;//项目集族
 ~~~
--动作
+- 动作
 ~~~
 struct action {
 	int type;//类型
@@ -38,7 +38,7 @@ struct action {
 	void clear() { type = -1; value = 0; };
 }table[maxn][maxn];
 ~~~
--描述DFA
+- 描述DFA
 ~~~
 //链式前向星基本操作，边能记录终点便于构造分析表
 
