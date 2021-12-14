@@ -1,0 +1,27 @@
+﻿  LR.cpp
+c:\users\cz\source\repos\lr\lr\lr.cpp(59): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(60): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(112): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(152): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(155): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(175): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(194): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(215): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(235): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(245): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(258): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(267): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(275): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(296): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(338): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(373): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(376): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(382): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(397): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(406): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(408): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(412): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(441): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\cz\source\repos\lr\lr\lr.cpp(487): warning C4018: “<”: 有符号/无符号不匹配
+  LR.vcxproj -> C:\Users\cz\source\repos\LR\Debug\LR.exe

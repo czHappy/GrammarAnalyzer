@@ -1,0 +1,22 @@
+(1) 非LL1文法
+a b c
+A B C D
+S->AB
+A->Da|@
+B->cC
+C->aADC|@
+D->b|@
+end
+
+(2) LL1文法
++ * a b ^ ( )
+E T K F M P Q
+E->TK
+K->+E|@
+T->FM
+M->T|@
+F->PQ
+Q->*F|@
+P->(E)|a|b|^
+end
+(a*b+a)

@@ -1,0 +1,21 @@
+(1) P158练习 15
+
+S
+S->a|^|(T)
+T->S,T|S
+end
+(a,^)
+
+(2) P156练习 1
+A
+A->aAd|aAb|@
+end
+
+
+(3) P147教材例子
+S
+S->BB
+B->aB
+B->b
+end
+aabb
